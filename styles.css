@@ -100,6 +100,38 @@ outline: #3882F6;
 }
 .thor{
     font-size: 30px;
-    margin-left: 600px;
+    margin-left: 400px;
     font-weight: bold;
+}
+.sign-up{
+    display: flex;
+    align-items: center;
+    gap: 70px;
+    justify-content: center;
+    margin: 80px;
+    background-color: #3882F6;
+    padding: 30px;
+    border-radius: 8px;
+
+}
+.calltext{
+    background-color:#3882F6;
+    color: white;
+}
+.footer{
+    background-color: #1f2937;
+    color: #E5e7Eb;
+    text-align: center;
+    padding: 10px 0px;
+    font-weight: bolder;
+}
+.h2{
+    font-weight: bold;
+    font-size: 26px;
+}
+.sign{
+   font-weight: bold;
+}
+.sign-up .sign{
+    color: black;
 }
